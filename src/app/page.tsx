@@ -272,7 +272,7 @@ export default function Home() {
         <div className="container mx-auto">
           <h2 className="text-3xl font-serif font-medium text-center mb-2">Event Details</h2>
           <p className="text-muted-foreground text-center max-w-2xl mx-auto mb-12">
-            All you need to know about the Preparation of the 2028 Budget Proposal seminar.
+            All you need to know about the Preparation of the 2028 Budget Proposal.
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {QUICK_FACTS.map((fact) => (
